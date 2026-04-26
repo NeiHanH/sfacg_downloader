@@ -1,5 +1,6 @@
 # sfacg_downloader（下载功能优化）
 ## https://github.com/CarrotsPie/sfacg_downloader 原链接，请给原作者点个star
+##原作者已更新多线程等功能，可直接前往原项目，但本项目dictionaryMake依旧可用
 
 ## 使用方法：
 1.直接运行sfacg_downloader.py文件，会读取dict.json
